@@ -1,0 +1,5 @@
+secret.key
+encrypted_api.txt
+scans_history.txt
+__pycache__/
+*.pyc
