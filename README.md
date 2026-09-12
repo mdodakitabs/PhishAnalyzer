@@ -69,7 +69,7 @@ PhishAnalyzer/
 
 ## Security Notice
 
-- Never share `secret.key` or `encrypted_api.txt`, and never commit them
+- Never share `secret.key` or `encrypted_api.txt`,and never commit them
   to Git. They are already listed in `.gitignore`.
 - This tool is intended for defensive use only (analyzing suspicious
   links you received), not as an offensive/attack tool.
